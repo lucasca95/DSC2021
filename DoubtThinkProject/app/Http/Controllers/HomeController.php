@@ -17,7 +17,7 @@ class HomeController extends Controller
 
     function videocall(){
         return view('home.videocall', [
-            'video_url' => Storage::url('testvideo.mp4')
+            // 'video_url' => Storage::url('testvideo.mp4')
         ]);
     }
     

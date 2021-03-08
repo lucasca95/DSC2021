@@ -12,10 +12,7 @@
     
         <div style="display:flex; ">
             <div style="text-align:center">
-                <video autoplay width='200px' height='300px' controls >
-                    <source src="{{$video_url}}">
-                </video>
-                
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/iBabS6tY_74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div>
                 <div style="border-style:dotted;border-width:thin">
