@@ -1,4 +1,4 @@
-As this project is a Laravel Web App, to run it you'll need to install PHP >= 7.2.5, Composer and NodeJs.
+As this project is a Laravel Web App, to run it you'll need to install PHP >= 7.2.5, [Composer](https://getcomposer.org/) and (NodeJs)[https://nodejs.org/en/].
 
 The steps to quick-run it are:
 
